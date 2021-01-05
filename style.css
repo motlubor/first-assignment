@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:50px;
+}
+.text-highlight{
+    color:rgba(52, 230, 7, 0.671);
+}
+.half-width{
+width:42%;
+float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+}
+.button-text{
+    text-decoration: none;
+    background-color: hotpink;
+    border:1px saddlebrown;
+    padding:10px 20px;
+    border-radius: 6px;
+    font-weight: 700;
+    color:seashell;
+    text-align:left;
+}
+.line-spacing{
+    height: 900px;
+}
