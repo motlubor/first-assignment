@@ -48,6 +48,7 @@ float:left;
   padding: 2px;
   margin: 20px;
   float: left;
+  background-color: navajowhite;
   }
 .adding-box img{
     width:100%
@@ -66,9 +67,45 @@ float:left;
 }
 .shape-height img{
     width:80%;
-    margin:200px 150px;
+    margin-top:200px;
+    margin-bottom: 50px;
+    margin-left: 150px;
     position: center;
 }
-.div-height{
-    height:50px white;
+.container {
+    position: relative;
+    font-family: Arial;
+  }
+  .text-block {
+    position: absolute;
+    bottom: 160px;
+    right: 170px;
+    color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 70px;
+  }
+  .bottom-left{
+    position: relative;
+    bottom: 25px;
+    right:780px;
+    color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    font-size: 34Px;
+    font-weight: 700;
+  }
+  .stay{
+      text-align: center;
+      color:slategray;
+      font-weight: 700;
+  }
+.big{
+    text-align: center;
+    font-weight: 700;
 }
+  
+  
+  
+
