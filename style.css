@@ -105,7 +105,14 @@ float:left;
     text-align: center;
     font-weight: 700;
 }
-  
+  .image-size img{
+      width: 3%;
+      
+    
+  }
+  .four{
+      margin-left: 550px;
+  }
   
   
 
